@@ -52,11 +52,11 @@ const home = {
       <br />
       <br />
       What I Do <br /> <br />✔ Digital Strategy & Brand Positioning Developing
-      full-funnel digital strategies aligned with business goals. ✔ SEO &
+      full-funnel digital strategies aligned with business goals.    <br /> ✔ SEO &
       Content Optimization Improving rankings, search visibility & organic
-      conversions. ✔ Social Media Growth & Ads Meta, LinkedIn & Google campaigns
-      for lead generation & awareness. ✔ Performance Marketing Campaign
-      structuring, A/B testing, ad automation & ROI optimization. ✔ Data
+      conversions.    <br />  ✔ Social Media Growth & Ads Meta, LinkedIn & Google campaigns
+      for lead generation & awareness.    <br />  ✔ Performance Marketing Campaign
+      structuring, A/B testing, ad automation & ROI optimization.    <br />  ✔ Data
       Analytics & Reporting Transforming raw data into insights that drive
       business decisions. Core Expertise SEO & SEM Social Media & Paid Campaigns
       Lead Generation & Funnel Optimisation Analytics (Google Analytics, Meta
