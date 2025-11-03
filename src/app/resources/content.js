@@ -58,7 +58,7 @@ const home = {
       for lead generation & awareness.    <br />  ✔ Performance Marketing Campaign
       structuring, A/B testing, ad automation & ROI optimization.    <br />  ✔ Data
       Analytics & Reporting Transforming raw data into insights that drive
-      business decisions. Core Expertise SEO & SEM Social Media & Paid Campaigns
+      business decisions. <br/> Core Expertise SEO & SEM Social Media & Paid Campaigns
       Lead Generation & Funnel Optimisation Analytics (Google Analytics, Meta
       Insights) Content Strategy & Branding Email Marketing & Automation
     </>
